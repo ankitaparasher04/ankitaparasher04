@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Ankita Parasher!
 
-<!--
-**ankitaparasher04/ankitaparasher04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 4th Year Computer Science Student | Java & Python Developer
+I am a logic-driven developer with a strong foundation in **Data Structures and Algorithms**. 
+I enjoy building efficient backends and desktop applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technical Skills
+- **Languages:** Java (DSA Specialist), Python, C++, C, SQL
+- **Back-end:** Django, FastAPI, MySQL
+- **DSA:** 350+ LeetCode problems (Graphs, Trees, DSU, Algorithms)
+
+---
+
+### 📂 Featured Projects
+- **Chess Game:** A desktop app built with **Java Swing** showcasing complex logic.
+- **Bank Management System:** A full-stack desktop application using **Java & MySQL**.
+- **Hotel Management & Snake Game:** Foundational projects built in **C++**.
+
+---
+
+### 📊 GitHub Stats
+![Ankita's Stats](https://vercel.app)
+![Top Langs](https://vercel.app)
+
+---
+📫 **Connect with me:** [LinkedIn](YOUR_LINKEDIN_URL) | [Email](mailto:your.email@example.com)
