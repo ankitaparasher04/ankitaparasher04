@@ -19,7 +19,7 @@ From having no computer science background in high school to becoming a **Java D
 
 ### 🏆 Technical Highlights
 - 🧠 **LeetCode:** Solved **350+ Problems** (Focusing on DSU, Trees, and Graphs).
-- ♟️ **Java Swing:** Developed a **Chess Game** & **Bank Management System** (Desktop Apps).
+- ♟️ **Java Swing:** Developed a **Chess Game** & **Bank Management System**.
 - 🎮 **C++ Projects:** Built a **Snake Game** and **Hotel Management System**.
 - 🚀 **Currently Learning:** FastAPI & Django for scalable backend systems.
 
