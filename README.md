@@ -25,28 +25,31 @@ From having no computer science background in high school to becoming a **Java D
 ### 📊 GitHub Activity Overview 
 
 <div align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://vercel.app" alt="Ankita's Stats" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="Ankita's Stats" />
   
-  <!-- Top Languages Card -->
-  <img src="https://vercel.app" alt="Top Languages" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
   
   <br/>
 
-  <!-- GitHub Streak Card -->
-  <img src="https://demolab.com" alt="GitHub Streak" />
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
 </div>
 
-<br/>
-
 ### 🌐 Connect with Me
+
 <div align="center">
-  <a href="www.linkedin.com/in/ankita-866747492">
-    <img src="https://shields.io" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  
-  <a href="mailto:abcderty654@email.com">
-    <img src="https://shields.io" alt="Gmail" />
+
+  <a href="https://twitter.com/YOUR_TWITTER">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" alt="Twitter" />
+  </a>
+
+  <a href="mailto:yourname@email.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" alt="Gmail" />
   </a>
 </div>
 
