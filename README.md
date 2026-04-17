@@ -1,9 +1,12 @@
 # 👋 Hi, I'm Ankita Parasher!
 
-### 🎓 4th Year Computer Science Student | Java & Python Developer
-I am a logic-driven developer focused on **Data Structures and Algorithms**. I love solving complex problems and building efficient backend systems.
+### 🎓 4th Year CS Student | Java & Python Developer
+I am a logic-driven developer with a passion for **Data Structures and Algorithms**. My journey started with a simple 'Hello World' in a C lab and evolved into mastering complex systems.
 
 ---
+
+### 📖 My Story
+From having no computer science background in high school to becoming a **Java DSA specialist**, I've learned that consistency is key. I spent my 3rd year dedicated to problem-solving, which helped me sharpen my logical thinking. Currently, I am expanding my horizons into **Python Backend Development**.
 
 ### 🛠️ Tech Stack & Tools
 ![Java](https://shields.io)
@@ -14,22 +17,22 @@ I am a logic-driven developer focused on **Data Structures and Algorithms**. I l
 
 ---
 
-### 🏆 Journey & Highlights
-- 🧠 **Logic:** Solved **350+ LeetCode problems** (Focus: Trees, Graphs, DSU).
-- ♟️ **Java Project:** Built a **Chess Game** and **Bank Management System** using Java Swing & MySQL.
-- 🐍 **Current Goal:** Mastering backend development with **Django and FastAPI**.
+### 🏆 Technical Highlights
+- 🧠 **LeetCode:** Solved **350+ Problems** (Focusing on DSU, Trees, and Graphs).
+- ♟️ **Java Swing:** Developed a **Chess Game** & **Bank Management System** (Desktop Apps).
+- 🎮 **C++ Projects:** Built a **Snake Game** and **Hotel Management System**.
+- 🚀 **Currently Learning:** FastAPI & Django for scalable backend systems.
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 GitHub Activity Overview
 <div align="center">
-  <!-- IMPORTANT: Change "ankitaparasher" below to your actual GitHub username -->
-  <img src="https://vercel.app" />
+  <img src="https://vercel.app" alt="Ankita's Stats" />
   <br/>
-  <img src="https://vercel.app" />
+  <img src="https://vercel.app" alt="Top Languages" />
 </div>
 
 ---
 
 ### 📫 Connect with me
-[LinkedIn](ADD_YOUR_LINKEDIN_URL_HERE) | [Email](mailto:your-email@example.com)
+[LinkedIn](https://linkedin.com) | [Email](mailto:ankitaparasher@example.com)
