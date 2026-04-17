@@ -23,12 +23,36 @@ From having no computer science background in high school to becoming a **Java D
 
 ---
 
-### 📊 GitHub Activity Overview
+### 📊 GitHub Activity Overview 
+
 <div align="center">
+  <!-- GitHub Stats Card -->
   <img src="https://vercel.app" alt="Ankita's Stats" />
-  <br/>
+  
+  <!-- Top Languages Card -->
   <img src="https://vercel.app" alt="Top Languages" />
+  
+  <br/>
+
+  <!-- GitHub Streak Card -->
+  <img src="https://demolab.com" alt="GitHub Streak" />
 </div>
+
+<br/>
+
+### 🌐 Connect with Me
+<div align="center">
+  <a href="https://linkedin.com">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com">
+    <img src="https://shields.io" alt="Twitter" />
+  </a>
+  <a href="mailto:yourname@email.com">
+    <img src="https://shields.io" alt="Gmail" />
+  </a>
+</div>
+
 
 ---
 
