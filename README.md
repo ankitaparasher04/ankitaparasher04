@@ -22,7 +22,6 @@ From having no computer science background in high school to becoming a **Java D
 - 🚀 **Currently Learning:** FastAPI & Django for scalable backend systems.
 
 ---
-
 ### 📊 GitHub Activity Overview 
 
 <div align="center">
@@ -42,16 +41,15 @@ From having no computer science background in high school to becoming a **Java D
 
 ### 🌐 Connect with Me
 <div align="center">
-  <a href="https://linkedin.com">
+  <a href="www.linkedin.com/in/ankita-866747492">
     <img src="https://shields.io" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com">
-    <img src="https://shields.io" alt="Twitter" />
-  </a>
-  <a href="mailto:yourname@email.com">
+  
+  <a href="mailto:abcderty654@email.com">
     <img src="https://shields.io" alt="Gmail" />
   </a>
 </div>
+
 
 
 ---
