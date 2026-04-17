@@ -26,15 +26,15 @@ From having no computer science background in high school to becoming a **Java D
 
 <div align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="Ankita's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitaparasher04&show_icons=true&theme=radical" alt="Ankita's Stats" />
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitaparasher04&layout=compact&theme=radical" alt="Top Languages" />
   
   <br/>
 
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ankitaparasher04&theme=radical" alt="GitHub Streak" />
 </div>
 
 ### 🌐 Connect with Me
