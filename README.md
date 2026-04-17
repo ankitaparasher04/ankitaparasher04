@@ -9,7 +9,8 @@ I am a logic-driven developer with a passion for **Data Structures and Algorithm
 From having no computer science background in high school to becoming a **Java DSA specialist**, I've learned that consistency is key. I spent my 3rd year dedicated to problem-solving, which helped me sharpen my logical thinking. Currently, I am expanding my horizons into **Python Backend Development**.
 
 ### 🛠️ Tech Stack & Tools
-![Java](https://shields.io)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 ![Python](https://shields.io)
 ![Django](https://shields.io)
 ![MySQL](https://shields.io)
