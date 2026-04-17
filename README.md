@@ -25,7 +25,7 @@ From having no computer science background in high school to becoming a **Java D
 
 ---
 
-### 📊 GitHub Activity Overview
+### 📊 My GitHub Activity (ankitaparasher04)
 <div align="center">
   <img src="https://vercel.app" alt="Ankita's Stats" />
   <br/>
