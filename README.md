@@ -1,28 +1,35 @@
 # 👋 Hi, I'm Ankita Parasher!
 
 ### 🎓 4th Year Computer Science Student | Java & Python Developer
-I am a logic-driven developer with a strong foundation in **Data Structures and Algorithms**. 
-I enjoy building efficient backends and desktop applications.
+I am a logic-driven developer focused on **Data Structures and Algorithms**. I love solving complex problems and building efficient backend systems.
 
 ---
 
-### 🚀 Technical Skills
-- **Languages:** Java (DSA Specialist), Python, C++, C, SQL
-- **Back-end:** Django, FastAPI, MySQL
-- **DSA:** 350+ LeetCode problems (Graphs, Trees, DSU, Algorithms)
+### 🛠️ Tech Stack & Tools
+![Java](https://shields.io)
+![Python](https://shields.io)
+![Django](https://shields.io)
+![MySQL](https://shields.io)
+![C++](https://shields.io)
 
 ---
 
-### 📂 Featured Projects
-- **Chess Game:** A desktop app built with **Java Swing** showcasing complex logic.
-- **Bank Management System:** A full-stack desktop application using **Java & MySQL**.
-- **Hotel Management & Snake Game:** Foundational projects built in **C++**.
+### 🏆 Journey & Highlights
+- 🧠 **Logic:** Solved **350+ LeetCode problems** (Focus: Trees, Graphs, DSU).
+- ♟️ **Java Project:** Built a **Chess Game** and **Bank Management System** using Java Swing & MySQL.
+- 🐍 **Current Goal:** Mastering backend development with **Django and FastAPI**.
 
 ---
 
-### 📊 GitHub Stats
-![Ankita's Stats](https://vercel.app)
-![Top Langs](https://vercel.app)
+### 📊 My GitHub Stats
+<div align="center">
+  <!-- IMPORTANT: Change "ankitaparasher" below to your actual GitHub username -->
+  <img src="https://vercel.app" />
+  <br/>
+  <img src="https://vercel.app" />
+</div>
 
 ---
-📫 **Connect with me:** [LinkedIn](YOUR_LINKEDIN_URL) | [Email](mailto:your.email@example.com)
+
+### 📫 Connect with me
+[LinkedIn](ADD_YOUR_LINKEDIN_URL_HERE) | [Email](mailto:your-email@example.com)
