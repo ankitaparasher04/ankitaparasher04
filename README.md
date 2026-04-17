@@ -9,7 +9,8 @@ I am a logic-driven developer with a passion for **Data Structures and Algorithm
 From having no computer science background in high school to becoming a **Java DSA specialist**, I've learned that consistency is key. I spent my 3rd year dedicated to problem-solving, which helped me sharpen my logical thinking. Currently, I am expanding my horizons into **Python Backend Development**.
 
 ### 🛠️ Tech Stack & Tools
-Java: ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) Python: ![Python](https://shields.io) Django: ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) FastAPI: ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 
 ---
